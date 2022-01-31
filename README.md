@@ -18,7 +18,7 @@
 
 ---
 > Deploy Your Bot On Heroku ✏
-<div align="left"><a href="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/SEW.md"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
+<div align="left"><a href="https://github.com/ranakashif10/ravindu01manoj/blob/main/SEW.md"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
 
 ***
 # Deployment link not working?
